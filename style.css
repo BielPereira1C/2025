@@ -1,0 +1,105 @@
+header{
+    justify-content: space-around;
+    margin: 50px;
+    display: flex;
+    background-color: rgba(224, 136, 4, 0.904);
+    border-radius: 50px; 
+ }
+.Logo{
+    width: 250px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: -160px;
+}
+.carrinho{
+width: 70px;
+height: 60px;
+margin-top: 46px;
+margin-right: -35px;
+}
+.Texto{
+    margin-top: 61px;   
+}
+.O{
+    color: rgb(0, 0, 0);
+}
+.corpo{
+        width: 390px;
+        height: 379px;
+    margin: 50px;
+    display: flex;
+    background-color: rgba(214, 228, 15, 0.87);
+    border-radius: 50px;
+    text-align: center;
+    margin-left: -40px;
+}
+.imagem {
+   width: 390px;
+   height: 250px;
+   border-radius: 50px 50px 0px 0px;
+
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+   }
+.insc{
+
+  background-color: rgb(136, 224, 2);
+  color: white;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.fundo{
+    background-color: #eeb13d;
+}
+.texto3{
+    margin-top: 920px;
+    margin-left: -1722px;
+}
+.texto4{
+    margin-top: 38px;
+    margin-left: -1725px;
+}
+.bloco{
+    display: flex;
+    justify-content: space-around;
+}
+.corpo2{
+      width: 390px;
+        height: 379px;
+    margin: 50px;
+    display: flex;
+    background-color: rgba(214, 228, 15, 0.87);
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 75px;
+}
+.corpo3{
+      width: 390px;
+        height: 379px;
+    margin: 50px;
+    display: flex;
+    background-color: rgba(214, 228, 15, 0.87);
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 712px;
+    margin-top: -434px;
+}
+.corpo4{
+    width: 390px;
+    height: 379px;
+    margin: 50px;
+    display: flex;
+    background-color: rgba(214, 228, 15, 0.87);
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 1330px;
+    margin-top: -429px;
+}
+
+.Preço1{
+    margin-top: -60px;
+}    
+
+    
